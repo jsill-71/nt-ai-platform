@@ -1,0 +1,10 @@
+app:
+  title: NT-AI Developer Portal
+  baseUrl: http://localhost:3000
+
+backend:
+  baseUrl: http://localhost:7007
+
+catalog:
+  rules:
+    - allow: [Component, System, API, Resource, Location]
